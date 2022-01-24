@@ -15,3 +15,6 @@ cd hyncinema
 npm install
 npm start
  ```
+Live project link:
+
+https://hyncinema.netlify.app
